@@ -92,3 +92,13 @@ Supported Alfresco versions
 ----
 - should work on any ACS versions supporting Alfresco Identity Services.
 - enables OAuth2 in Alfresco Share
+
+### Useful Links:
+
+* https://spring.io/projects/spring-cloud-gateway
+
+* https://github.com/dgradecak/alfresco-jwt-auth
+
+* https://gradecak.com
+
+* https://pleosoft.com
